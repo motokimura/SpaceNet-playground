@@ -14,6 +14,8 @@ found [here](https://github.com/SpaceNetChallenge/utilities/tree/master/content/
 
 ### Building outline
 
+<img src="contents/building_outline.png" />
+
 See [this notebook](src/building/plot_truth_coords.ipynb) for details.
 
 ### Building mask
