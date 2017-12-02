@@ -1,0 +1,29 @@
+# SpaceNet_playground
+Experiments to preprocess [SpaceNet](http://explore.digitalglobe.com/spacenet) satellite imagery data corpus to a format that is consumable by machine learning algorithms.
+
+## Dependencies
+
+- [GDAL](http://www.gdal.org/) (tested with 2.1.3)
+- [libspatialindex](http://libspatialindex.github.io/) (tested with 1.8.5)
+- Python packages listed in [requirements.txt](requirements.txt)
+
+## [Demo #1] Building footprints
+
+Download instructions for the SpaceNet building footprint dataset can be 
+found [here](https://github.com/SpaceNetChallenge/utilities/tree/master/content/download_instructions).
+
+### Building outline
+
+See [this notebook](src/building/plot_truth_coords.ipynb) for details.
+
+### Building mask
+
+*Comming soon..*
+
+### Building bounding box
+
+*Comming soon..*
+
+# License
+
+[MIT License](LICENSE)
