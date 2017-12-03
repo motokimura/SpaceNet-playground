@@ -1,4 +1,4 @@
-# SpaceNet_playground
+# SpaceNet-playground
 Experiments to preprocess [SpaceNet](http://explore.digitalglobe.com/spacenet) satellite imagery data corpus to a format that is consumable by machine learning algorithms.
 
 ## Dependencies
