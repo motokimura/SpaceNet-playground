@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Reference: 
 # https://medium.com/the-downlinq/getting-started-with-spacenet-data-827fd2ec9f53
 # https://gist.github.com/avanetten/534e6f341b0670be2ea74ce39d68226a#file-geojson_to_pixel_arr-py
