@@ -17,13 +17,13 @@ and [here](https://spacenetchallenge.github.io).
 
 <img src="contents/building_outline.png" />
 
-See [this notebook](src/building/plot_truth_coords.ipynb) for details.
+See [this notebook](scripts/building/plot_truth_coords.ipynb) for details.
 
 ### Building mask
 
 <img src="contents/building_mask.png" />
 
-See [this notebook](src/building/plot_building_mask.ipynb) for details.
+See [this notebook](scripts/building/plot_building_mask.ipynb) for details.
 
 ### Building bounding box
 
