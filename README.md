@@ -20,7 +20,9 @@ See [this notebook](src/building/plot_truth_coords.ipynb) for details.
 
 ### Building mask
 
-*Comming soon..*
+<img src="contents/building_mask.png" />
+
+See [this notebook](src/building/plot_building_mask.ipynb) for details.
 
 ### Building bounding box
 
