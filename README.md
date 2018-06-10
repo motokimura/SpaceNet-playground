@@ -10,7 +10,8 @@ Experiments to preprocess [SpaceNet](http://explore.digitalglobe.com/spacenet) s
 ## [Demo #1] Building footprints
 
 Download instructions for the SpaceNet building footprint dataset can be 
-found [here](https://github.com/SpaceNetChallenge/utilities/tree/master/content/download_instructions).
+found [here](https://github.com/SpaceNetChallenge/utilities/tree/master/content/download_instructions) 
+and [here](https://spacenetchallenge.github.io).
 
 ### Building outline
 
