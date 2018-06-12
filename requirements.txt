@@ -5,3 +5,4 @@ geopandas==0.3.0
 Rtree==0.8.3
 centerline==0.3
 osmnx==0.6
+Pillow==5.1.0
